@@ -1,0 +1,13 @@
+.vs
+*.sln
+*.VC.db
+*.VC.opendb
+DerivedDataCache/
+Intermediate/
+Saved/
+Binaries/
+Build/
+Documentation/
+.DS_Store
+Thumbs.db
+*.log
