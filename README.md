@@ -1,5 +1,11 @@
 ## VoiceNPC
 
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/>
+</p>
+
 VoiceNPC started as an experiment in real-time conversations with AI-powered NPCs using voice input. During development, it evolved into a simple NPC chat system focused on basic AI-driven interactions inside Unreal Engine.
 
 This project is intentionally lightweight and built entirely from scratch without relying on third-party plugins. The goal was to learn how local LLMs can be integrated into Unreal Engine and used for NPC conversations.
