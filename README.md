@@ -1,10 +1,10 @@
-# VoiceNPC
+## VoiceNPC
 
 VoiceNPC started as an experiment in real-time conversations with AI-powered NPCs using voice input. During development, it evolved into a simple NPC chat system focused on basic AI-driven interactions inside Unreal Engine.
 
 This project is intentionally lightweight and built entirely from scratch without relying on third-party plugins. The goal was to learn how local LLMs can be integrated into Unreal Engine and used for NPC conversations.
 
-# Requirements
+## Requirements
 
 ## Python
 
@@ -14,7 +14,7 @@ Install FastAPI before running the backend:
 pip install fastapi
 ```
 
-# CUDA Setup
+##  CUDA Setup
 
 For the best performance, configure llama-cpp-python to use your NVIDIA GPU.
 
@@ -29,7 +29,7 @@ pip install llama-cpp-python --updgrade --force-reinstall --no-cache-dir
 
 This rebuilds llama-cpp-python with CUDA support enabled.
 
-# Verify CUDA Is Working
+##  Verify CUDA Is Working
 
 After starting the backend:
 
@@ -50,7 +50,7 @@ If CUDA devices are listed, the model is successfully using your GPU.
 
 If CUDA is not detected, the model will run on the CPU, which is significantly slower.
 
-# Model
+##  Model
 
 The project is currently configured to use:
 
@@ -71,7 +71,7 @@ If you want to use a different model:
     - Update the model path in the project.
     - Modify the download script or directly download the new model and past it into the      models folder.
 
-# Running the Project
+##  Running the Project
 
 Start the Python backend:
 
@@ -81,7 +81,7 @@ python main.py
 
 Once the backend is running, launch the Unreal Engine project and begin chatting with two given NPC in the game world.
 
-# PRoject Status
+##  Project Status
 
 This is primarily a learning project and proof of concept.
 
@@ -95,7 +95,7 @@ There are many AI NPC solutions available that:
 
 This project goal was to build a simple AI-powered NPC chat system from scratch without replying on any plugins, allowing me to better understand local LLM integration and NPC communication workflows.
 
-# Disclaimer
+## Disclaimer
 
 This codebase is intentionally simple and may not represent production-quality architecture.
 
