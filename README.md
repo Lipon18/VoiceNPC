@@ -13,8 +13,21 @@ This project is intentionally lightweight and built entirely from scratch withou
 
 ## Screenshots
 
+<h2>Screenshots</h2>
+
 <p align="center">
-  <img src="Images/Screenshot 2026-06-20 165352.png" alt="Screenshot" width="600">
+    <img src="Images/Screenshot 2026-06-20 165312.png" width="45%">
+  <img src="Images/Screenshot 2026-06-20 165352.png" width="45%">
+</p>
+
+<p align="center">
+  <img src="images/Screenshot 2026-06-20 165420.png" width="45%">
+  <img src="images/Screenshot 2026-06-20 165503.png" width="45%">
+</p>
+
+<p align="center">
+  <img src="images/Screenshot 2026-06-20 165600.png" width="45%">
+  <img src="images/Screenshot 2026-06-20 165710.png" width="45%">
 </p>
 
 ## Requirements
