@@ -14,7 +14,7 @@ This project is intentionally lightweight and built entirely from scratch withou
 ## Screenshots
 
 <p align="center">
-  <img src="images/Screenshot 2026-06-20 165352.png" alt="Screenshot" width="600">
+  <img src="Images/Screenshot 2026-06-20 165352.png" alt="Screenshot" width="600">
 </p>
 
 ## Requirements
