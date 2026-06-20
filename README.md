@@ -13,12 +13,9 @@ This project is intentionally lightweight and built entirely from scratch withou
 
 ## Screenshots
 
-![Project Screenshots](<Screenshot 2026-06-20 165312-1.png>)
-![Project Screenshots](<Screenshot 2026-06-20 165710.png>) 
-![Project Screenshots](<Screenshot 2026-06-20 165352.png>) 
-![Project Screenshots](<Screenshot 2026-06-20 165420.png>) 
-![Project Screenshots](<Screenshot 2026-06-20 165503.png>) 
-![Project Screenshots](<Screenshot 2026-06-20 165600.png>)
+<p align="center">
+  <img src="images/Screenshot 2026-06-20 165352.png" alt="Screenshot" width="600">
+</p>
 
 ## Requirements
 
