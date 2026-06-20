@@ -13,7 +13,7 @@ This project is intentionally lightweight and built entirely from scratch withou
 
 ## Screenshots
 
-<img src=""C:\Users\asifb\OneDrive\Pictures\Screenshots\Screenshot 2026-06-20 165312.png"" alt="Project Screenshot" width="600">
+![Project Screenshots](<Screenshot 2026-06-20 165312-1.png>)
 
 ## Requirements
 
