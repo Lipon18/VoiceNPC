@@ -11,6 +11,10 @@ VoiceNPC started as an experiment in real-time conversations with AI-powered NPC
 
 This project is intentionally lightweight and built entirely from scratch without relying on third-party plugins. The goal was to learn how local LLMs can be integrated into Unreal Engine and used for NPC conversations.
 
+## Screenshots
+
+<img src=""C:\Users\asifb\OneDrive\Pictures\Screenshots\Screenshot 2026-06-20 165312.png"" alt="Project Screenshot" width="600">
+
 ## Requirements
 
 ## Python

@@ -36,6 +36,10 @@
 				"Linux",
 				"Android"
 			]
+		},
+		{
+			"Name": "Bridge",
+			"Enabled": false
 		}
 	]
 }
